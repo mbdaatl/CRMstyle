@@ -1,4 +1,4 @@
-![alt text](https://github.com/mdbaatl/CRMstyle/assets/mdba-logo-300x240.jpg ) 
+![alt text](https://github.com/mdbaatl/CRMstyle/assets/mdbalogo.png ) 
 # CRMstyle
 Style Guide For CRM Process
 
