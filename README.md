@@ -19,4 +19,5 @@ Style Guide For CRM Process
  - Easy to decipher because of the separation and quicker to type. 
 - `404.123.4567`
 
-## When creating a New Account be sure to search for the county of the address (Google, Yahoo, etc.)
+## Misc.
+- When creating a New Account be sure to search for the county of the address (Google, Yahoo, etc.)
