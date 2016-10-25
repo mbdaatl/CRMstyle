@@ -1,4 +1,4 @@
-![alt text](https://github.com/mbdaatl/CRMstyle/blob/master/assets/mbdalogo.png =250x250) 
+<img src="https://github.com/mbdaatl/CRMstyle/blob/master/assets/mbdalogo.png" alt="alt text" width="50" height="50">
 # CRMstyle
 Style Guide For CRM Process
 
