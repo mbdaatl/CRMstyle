@@ -1,9 +1,9 @@
-#CRM Style Guide
-
+# CRM Style Guide
+This style guide was created with quickness and speed in mind. If there are changes that need to be made let Chaz know.
 ## General 
 - Address 
- - `75 5th St., Suite xxx`
- - `St., Blvd., Rd.`
+ -  ex. `75 5th St., Suite xxx`
+ - `St., Blvd., Rd.` (Abbreviated with a period)
  - `Atlanta`
  - `GA` (Abbreviated State)
  - `30308`
